@@ -41,8 +41,8 @@ Hi there 👋. I am a highly skilled software developer with extensive experienc
 ### My Github Stats:
 <p align="center">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrmawanAriel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrmawanAriel&show_icons=true&include_all_commits=true&theme=algolia&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrmawanAriel&layout=compact&langs_count=8&theme=algolia"/>
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=IrmawanAriel" /> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrmawanAriel&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 
