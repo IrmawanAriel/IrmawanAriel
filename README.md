@@ -17,7 +17,6 @@
 Hi there 👋. I am a highly skilled software developer with extensive experience in full-stack development, system monitoring, and server creation. Notable projects include developing a full-stack e-commerce coffee shop using React.js and Node.js, creating an early warning system for Proxmox servers, and building a high-performance server in Go. Strong in teamwork, problem-solving, leadership, communication, and fluent in English, I am prepared to contribute effectively to new challenges and projects.
 
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://IrmawanAriel.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-irmawan-238223262/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arielirmawan)
 
